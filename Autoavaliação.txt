@@ -1,0 +1,8 @@
+Aluno: Leandro Lourenço Lemos
+Autoavaliação: Nota Máxima (5)
+
+Motivo:
+Consegui seguir todos os passos dos slides corretamente e sem problemas ou dificuldades.
+Exercício foi feito, compilado e executado no Eclipse.
+Todas as instalações pedidas foram feitas.
+GitHub foi utilizado comforme pedido e sem dificulades.
